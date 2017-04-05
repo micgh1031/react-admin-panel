@@ -1,4 +1,6 @@
 # Vurve stripe admin panel
+###### The React.js application with webpack server-side rendering
+***
 
 ## Installation
 1. `npm install`
